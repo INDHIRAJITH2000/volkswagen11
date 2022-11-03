@@ -1,0 +1,58 @@
+.top{
+    background-image: url(/Taigun-Global-NCAP-1.png);
+    height:25cm;
+    background-repeat: no-repeat;
+}
+.next{
+    background-color: blue;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    width: fit-content;
+    text-align:center;
+    font-size: 1cm;
+    
+    
+
+}
+.item3{
+    list-style-type: none;
+}
+.item1:hover{
+    transform: scale(1.4);
+    box-shadow:2px 2px 2px 2px rgb(0, 0, 0);
+    
+}
+.item2:hover{
+    transform: scale(1.4);
+    box-shadow:2px 2px 2px 2px rgb(47, 110, 204);
+    
+}
+.nextt{
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 3cm;
+    font-size: 14px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.qwerty{
+    background-color: white;
+    width: fit-content;
+}
+@media(max-width:778px){
+    .item4{
+        text-align: center;
+    }
+}
+.item5{
+    background-color: dimgray;
+}
+.item14{
+    margin-top: 10px;
+    background-color: rgb(94, 94, 105);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
